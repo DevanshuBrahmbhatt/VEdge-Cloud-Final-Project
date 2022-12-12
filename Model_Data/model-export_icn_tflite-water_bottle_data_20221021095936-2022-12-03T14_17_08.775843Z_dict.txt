@@ -1,0 +1,4 @@
+Good
+damaged_bottle
+missing_label
+missing_cap
